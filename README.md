@@ -16,7 +16,7 @@ This is a solution a task from Zuri internship 2022 to illustrate creating and u
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-This is a overview of the pyhton task, working on this amazing projects has exposed me to several ways to in which code can be written and executed. This python task enables the users and computer to play a game. bthey simply taking an input from the user and matching it with  computer.
+This is a overview of the pyhton task, working on this amazing projects has exposed me to several ways code can be written and executed. This python task enables the users and computer to play a game. by simply taking an input from the user and matching it with computer.
 
 ### The challenge
 The challenge i had while working on the site are as follows:
@@ -41,6 +41,6 @@ Animashaun Ola is my name i'm a student at zuri interns programm.
 
 
 ### Acknowledgements
-i Want to a big thank you to [@iediong] for his help always.
-God bless you sir.
+i Want to say a big thank you to [@iediong] without his guidiance don't think i would have gone this far.
+Thank you sir, GOD bless you.
 [@iediong](https://twitter.com/iediong) - Ediongsenyene Joseph
